@@ -2,7 +2,7 @@
 
 **Requirements:**
 
-All the required steps have been provided in the google colab with the required imports.
+All the required steps have been provided in the PYTHON notebook with the required imports.
 
 **Note:**
 
